@@ -83,4 +83,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Disclaimer
 
-This project uses the Sarvam AI API. Make sure you comply with Sarvam's terms of service and data usage policies when using this script.
+This project uses the Sarvam AI API. Make sure you comply with Sarvam's terms of service and data usage policies when using this script.Note: You need to replace 'YOUR_API_KEY_HERE' in voice_agent.py with your actual Sarvam API key to use this script.
