@@ -5,7 +5,7 @@ import wave
 import os
 
 # Replace with your actual Sarvam API key
-API_KEY = "f74703a6-1ac0-4cfe-8db9-0580c4897957"
+API_KEY = "YOUR_API_KEY_HERE"
 
 def translate_text(text, source_lang, target_lang):
     print(f"Translating from {source_lang} to {target_lang}")
